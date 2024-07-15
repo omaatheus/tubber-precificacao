@@ -21,7 +21,7 @@ A Tuber, uma nova empresa de taxi entrou em operação no Brasil. | Criei um pro
   
 - 5 e 15KM
   ```
-  Foram rodados 4.1km e o valor foi de R$20.50
+  Foram rodados 14.9km e o valor foi de R$67.05
   ```
 
 - Mais que 15KM
