@@ -1,12 +1,5 @@
-# A Tuber, uma nova empresa de taxi entrou em operação no Brasil. Esta nova empresa opera da seguintes forma:
 
-# - Viagem com menos de 5 km é cobrado R$ 5,00 por quilometro rodado
-# - Viagem entre 5 e 15 km é cobrado R$ 4,50 por quilometro rodado
-# - Viagem maiores de 15 km é cobrado R$ 4,00 por quilometro rodado
-
-# Crie um programa que mostre quanto um passageiro vai pagar na viagem dele.
-
-kmRodado = int(input('Insira a Quilometragem rodada: '))
+kmRodado = float(input('Insira a Quilometragem rodada: '))
 
 rodado5Km = f'R${kmRodado * 5.00:.2f}'
 rodado5and15Km = f'R${kmRodado * 4.50:.2f}'
