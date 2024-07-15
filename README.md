@@ -24,3 +24,19 @@ Siga os passos abaixo para configurar o projeto localmente:
 
 - **Email**
   - matheuspereiradasilv@gmail.com
+
+## Exemplos de saída
+- Menos que 5KM
+  ```
+  Foram rodados 4.1km e o valor foi de R$20.50
+  ```
+  
+- 5 e 15KM
+  ```
+  Foram rodados 4.1km e o valor foi de R$20.50
+  ```
+
+- Mais que 15KM
+  ```
+  Foram rodados 57.6km e o valor foi de R$230.40
+  ```
